@@ -36,5 +36,5 @@ setup(
     author='Vivek Rauniyar',
     author_email="vivekrauniyar18@gmail.com",
     packages=find_packages(),
-    install_requiures= get_requirements() 
+    install_requires= get_requirements() 
 )
